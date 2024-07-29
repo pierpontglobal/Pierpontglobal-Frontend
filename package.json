@@ -81,7 +81,7 @@
     "react-responsive-modal": "^3.5.1",
     "react-router-dom": "4.3.1",
     "react-scale-text": "^1.2.2",
-    "react-scripts": "2.1.2",
+    "react-scripts": "5.0.1",
     "react-spinners": "^0.4.8",
     "react-stripe-elements": "^2.0.2",
     "react-swipeable-views": "^0.13.1",
