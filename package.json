@@ -103,7 +103,7 @@
     "uglifyjs-3-webpack-plugin": "^1.2.4",
     "universal-cookie": "^4.0.0",
     "video-react": "^0.13.7",
-    "webpack": "4.19.1",
+    "webpack": "5.94.0",
     "whatwg-fetch": "^3.0.0",
     "yarn": "^1.13.0"
   },
